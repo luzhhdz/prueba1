@@ -1,6 +1,8 @@
 ﻿
 namespace ControlVersion
 {
+    //Buen día ingeniero
+    //procederemos con el código de ejemplo en el uso de Git, y sus extensiones GitHub y Visual Studio Code
     partial class Form1
     {
         /// <summary>
