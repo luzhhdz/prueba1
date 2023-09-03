@@ -1,0 +1,10 @@
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\bin\Debug\ControlVersion.exe.config
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\bin\Debug\ControlVersion.exe
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\bin\Debug\ControlVersion.pdb
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.csproj.AssemblyReference.cache
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.Form1.resources
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.Properties.Resources.resources
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.csproj.GenerateResource.cache
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.csproj.CoreCompileInputs.cache
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.exe
+D:\OneDrive - Universidad de El Salvador Facultad de Ingeniería y Arquitectura\Programacion I\Herramienta de Control De Versiones\ControlVersion\obj\Debug\ControlVersion.pdb
