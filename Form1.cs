@@ -41,12 +41,21 @@ namespace ControlVersion
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-            //
+            // Limpiar los TextBox y el Label Mensaje
+            txtNombreCompleto.Clear();
+            txtCarnet.Clear();
+            txtGrupoTeorico.Clear();
+            lblMensaje.Text = "";
+            lblNombreEstudiante.Text = "";
+            lblCarnetEstudiante.Text = "";
+            lblGrupoTeorico.Text = "";
+            cmbPrograma.SelectedIndex = -1;
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-            //
+            // Cerrar la aplicación
+            Application.Exit();
         }
     }
 }
