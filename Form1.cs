@@ -22,7 +22,20 @@ namespace ControlVersion
                 {
                     MessageBox.Show("Por favor, complete todos los campos antes de continuar.", "Error de validación", MessageBoxButtons.OK, MessageBoxIcon.Error);
                     return; // Salir del evento si hay campos vacíos
+
+
                 }
+                // Obtener el programa seleccionado del ComboBox
+                string programaSeleccionado = cmbPrograma.SelectedItem.ToString();
+
+                // Actualizar el mensaje en el Label Mensaje
+                lblMensaje.Text = "!Felicidades!. Usted ha seleccionado: " + programaSeleccionado;
+                // Mostrar los datos ingresados en los Labels correspondientes
+                lblNombreEstudiante.Text = string.Format(txtNombreCompleto.Text);
+                lblCarnetEstudiante.Text = string.Format(txtCarnet.Text);
+                lblGrupoTeorico.Text = string.Format(txtGrupoTeorico.Text);
+
+
             }
         }
 
