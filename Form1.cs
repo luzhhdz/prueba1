@@ -14,19 +14,18 @@ namespace ControlVersion
         private void btnEjecutar_Click(object sender, EventArgs e)
         {
             {
-
+                //
             }
-
         }
 
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
-
+            //
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
         {
-
+            //
         }
     }
 }
